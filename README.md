@@ -18,9 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohd amaan ansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd amaan ansari" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ml1b.2212454.ama@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ml1b.2212454.ama@gmail.com" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ml1b.2212454.ama@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ml1b.2212454.ama@gmail.com" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Mohd Amaan Ansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd amaan ansari" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/csaiml1530102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ml1b.2212454.ama@gmail.com" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Mohd_Amaan-12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ml1b.2212454.ama@gmail.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
