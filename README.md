@@ -1,4 +1,4 @@
-[![MasterHead](https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif)]
+![MasterHead](https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif)
 
 <h1 align="center">Hi 👋, I'm Mohd Amaan Ansari</h1>
 <h3 align="center">A passionate coder from India</h3>
