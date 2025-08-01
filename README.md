@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mohd Amaan Ansari</h1>
 <h3 align="center">A passionate full-stack developer and machine learning enthusiast from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.DkSIJYfaEKk5lB-K7h_OSQHaFj?pid=ImgDet&rs=1">
+<img align="right" alt="Coding" width="400" src="https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amaan-12-git&label=Profile%20views&color=0e75b6&style=flat" alt="amaan-12-git" /> </p>
 
